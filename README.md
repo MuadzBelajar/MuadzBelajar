@@ -4,7 +4,7 @@
 <p><em>Vocational high school - Software engineering<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://linkedin.com/in/" target="_blank">
+<a href="https://linkedin.com/in/" target="https://www.linkedin.com/in/muadz-al-fateh-l08/">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/" target="_blank">
